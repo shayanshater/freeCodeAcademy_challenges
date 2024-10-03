@@ -4,3 +4,4 @@ In this repository i will complete the frequent challenges posted by fCC communi
 
 30/09/24 : traveling problem
 
+29/09/24 : mad-workers
